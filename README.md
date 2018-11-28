@@ -1,6 +1,6 @@
-# researchproject
+# Science Project
 A project about my research.
 ## usage
 
 ## notes
-edit ...
+Notes. Notes. Notes.
